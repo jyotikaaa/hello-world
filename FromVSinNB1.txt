@@ -1,0 +1,1 @@
+This is a new file created in VS in the new branch 1
